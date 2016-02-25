@@ -1,6 +1,5 @@
 /* ----------------------------------------------------------------------------
-* Copyright &copy; 2016 Ryan Allen <rallen17@csu.fullerton.edu>, Steven Kha <stevenvkha@gmail.com>, Arshi Singh <arshi95@gmail.com>,
-* Alex Chau <chauder_headWyahoo.com>
+* Copyright &copy; 2016 Ben Blazak <bblazak@fullerton.edu>
 * Released under the [MIT License] (http://opensource.org/licenses/MIT)
 * ------------------------------------------------------------------------- */
 
